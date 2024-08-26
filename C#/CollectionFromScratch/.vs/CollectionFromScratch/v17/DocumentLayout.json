@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\CollectionFromScratch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECF6C14-7A4D-44B0-8B45-79F38D019C82}|CollectionFromScratch\\CollectionFromScratch.csproj|d:\\visual studio\\collectionfromscratch\\collectionfromscratch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECF6C14-7A4D-44B0-8B45-79F38D019C82}|CollectionFromScratch\\CollectionFromScratch.csproj|solutionrelative:collectionfromscratch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECF6C14-7A4D-44B0-8B45-79F38D019C82}|CollectionFromScratch\\CollectionFromScratch.csproj|d:\\visual studio\\collectionfromscratch\\collectionfromscratch\\myowncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECF6C14-7A4D-44B0-8B45-79F38D019C82}|CollectionFromScratch\\CollectionFromScratch.csproj|solutionrelative:collectionfromscratch\\myowncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOwnCollection.cs",
+              "DocumentMoniker": "D:\\visual studio\\CollectionFromScratch\\CollectionFromScratch\\MyOwnCollection.cs",
+              "RelativeDocumentMoniker": "CollectionFromScratch\\MyOwnCollection.cs",
+              "ToolTip": "D:\\visual studio\\CollectionFromScratch\\CollectionFromScratch\\MyOwnCollection.cs",
+              "RelativeToolTip": "CollectionFromScratch\\MyOwnCollection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:35:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\CollectionFromScratch\\CollectionFromScratch\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionFromScratch\\Program.cs",
+              "ToolTip": "D:\\visual studio\\CollectionFromScratch\\CollectionFromScratch\\Program.cs",
+              "RelativeToolTip": "CollectionFromScratch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:35:03.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

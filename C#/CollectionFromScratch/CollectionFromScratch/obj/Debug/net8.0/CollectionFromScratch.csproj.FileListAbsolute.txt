@@ -1,0 +1,14 @@
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\bin\Debug\net8.0\CollectionFromScratch.exe
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\bin\Debug\net8.0\CollectionFromScratch.deps.json
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\bin\Debug\net8.0\CollectionFromScratch.runtimeconfig.json
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\bin\Debug\net8.0\CollectionFromScratch.dll
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\bin\Debug\net8.0\CollectionFromScratch.pdb
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.AssemblyInfoInputs.cache
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.AssemblyInfo.cs
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.csproj.CoreCompileInputs.cache
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.dll
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\refint\CollectionFromScratch.dll
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.pdb
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\CollectionFromScratch.genruntimeconfig.cache
+D:\visual studio\CollectionFromScratch\CollectionFromScratch\obj\Debug\net8.0\ref\CollectionFromScratch.dll

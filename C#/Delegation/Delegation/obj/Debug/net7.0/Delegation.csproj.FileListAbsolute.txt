@@ -1,0 +1,14 @@
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\bin\Debug\net7.0\Delegation.exe
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\bin\Debug\net7.0\Delegation.deps.json
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\bin\Debug\net7.0\Delegation.runtimeconfig.json
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\bin\Debug\net7.0\Delegation.dll
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\bin\Debug\net7.0\Delegation.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.AssemblyInfo.cs
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.dll
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\refint\Delegation.dll
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\Delegation.genruntimeconfig.cache
+C:\Users\Mahmoud Ahmed\Desktop\Delegation\Delegation\obj\Debug\net7.0\ref\Delegation.dll

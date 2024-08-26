@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\pro02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D88CA4-96EE-47BE-AEE8-0DF6FD893480}|pro02\\pro01.csproj|d:\\visual studio\\pro02\\pro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D88CA4-96EE-47BE-AEE8-0DF6FD893480}|pro02\\pro01.csproj|solutionrelative:pro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\pro02\\pro02\\Program.cs",
+              "RelativeDocumentMoniker": "pro02\\Program.cs",
+              "ToolTip": "D:\\visual studio\\pro02\\pro02\\Program.cs",
+              "RelativeToolTip": "pro02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:43:25.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

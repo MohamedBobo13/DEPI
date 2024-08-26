@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|d:\\visual studio\\events\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|d:\\visual studio\\events\\events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|solutionrelative:events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|d:\\visual studio\\events\\events\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|solutionrelative:events\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|d:\\visual studio\\events\\events\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|solutionrelative:events\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|d:\\visual studio\\events\\events\\web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7F6D9-F3CC-4F82-9564-97D28F7367E8}|Events\\Events.csproj|solutionrelative:events\\web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.cs",
+              "DocumentMoniker": "D:\\visual studio\\Events\\Events\\Web.cs",
+              "RelativeDocumentMoniker": "Events\\Web.cs",
+              "ToolTip": "D:\\visual studio\\Events\\Events\\Web.cs",
+              "RelativeToolTip": "Events\\Web.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:03.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\visual studio\\Events\\Events\\Employee.cs",
+              "RelativeDocumentMoniker": "Events\\Employee.cs",
+              "ToolTip": "D:\\visual studio\\Events\\Events\\Employee.cs",
+              "RelativeToolTip": "Events\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:03.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\visual studio\\Events\\Events\\Student.cs",
+              "RelativeDocumentMoniker": "Events\\Student.cs",
+              "ToolTip": "D:\\visual studio\\Events\\Events\\Student.cs",
+              "RelativeToolTip": "Events\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\visual studio\\Events\\Events\\Publisher.cs",
+              "RelativeDocumentMoniker": "Events\\Publisher.cs",
+              "ToolTip": "D:\\visual studio\\Events\\Events\\Publisher.cs",
+              "RelativeToolTip": "Events\\Publisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:03.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\Events\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "D:\\visual studio\\Events\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:03.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

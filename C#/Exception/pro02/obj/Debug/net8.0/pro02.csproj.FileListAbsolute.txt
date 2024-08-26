@@ -1,0 +1,14 @@
+D:\visual studio\pro02\pro02\bin\Debug\net8.0\pro02.exe
+D:\visual studio\pro02\pro02\bin\Debug\net8.0\pro02.deps.json
+D:\visual studio\pro02\pro02\bin\Debug\net8.0\pro02.runtimeconfig.json
+D:\visual studio\pro02\pro02\bin\Debug\net8.0\pro02.dll
+D:\visual studio\pro02\pro02\bin\Debug\net8.0\pro02.pdb
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.AssemblyInfoInputs.cache
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.AssemblyInfo.cs
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.csproj.CoreCompileInputs.cache
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.dll
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\refint\pro02.dll
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.pdb
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\pro02.genruntimeconfig.cache
+D:\visual studio\pro02\pro02\obj\Debug\net8.0\ref\pro02.dll
