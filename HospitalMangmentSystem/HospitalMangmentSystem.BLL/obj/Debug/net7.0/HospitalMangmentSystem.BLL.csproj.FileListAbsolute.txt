@@ -1,0 +1,15 @@
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\bin\Debug\net7.0\HospitalMangmentSystem.BLL.deps.json
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\bin\Debug\net7.0\HospitalMangmentSystem.BLL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\bin\Debug\net7.0\HospitalMangmentSystem.BLL.pdb
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.pdb
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.csproj.AssemblyReference.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.AssemblyInfoInputs.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.AssemblyInfo.cs
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.csproj.CoreCompileInputs.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\Hospital.049BA2F1.Up2Date
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\refint\HospitalMangmentSystem.BLL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\HospitalMangmentSystem.BLL.pdb
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.BLL\obj\Debug\net7.0\ref\HospitalMangmentSystem.BLL.dll

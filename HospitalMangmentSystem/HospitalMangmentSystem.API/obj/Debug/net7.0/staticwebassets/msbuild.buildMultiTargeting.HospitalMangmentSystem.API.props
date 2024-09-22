@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HospitalMangmentSystem.API.props" />
+</Project>

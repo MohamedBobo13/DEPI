@@ -1,0 +1,14 @@
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.deps.json
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.runtimeconfig.json
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\bin\Debug\net7.0\HospitalMangmentSystem.DAL.pdb
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.csproj.AssemblyReference.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.AssemblyInfoInputs.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.AssemblyInfo.cs
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.csproj.CoreCompileInputs.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\refint\HospitalMangmentSystem.DAL.dll
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.pdb
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\HospitalMangmentSystem.DAL.genruntimeconfig.cache
+D:\visual studio\HospitalMangmentSystem\HospitalMangmentSystem.DAL\obj\Debug\net7.0\ref\HospitalMangmentSystem.DAL.dll

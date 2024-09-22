@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\HospitalMangmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|solutionrelative:hospitalmangmentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|solutionrelative:hospitalmangmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.bll\\dtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|solutionrelative:hospitalmangmentsystem.bll\\dtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.bll\\dtos\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|solutionrelative:hospitalmangmentsystem.bll\\dtos\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.bll\\dtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98F51A-BB95-4E5D-86D9-D5E6FECD6E0B}|HospitalMangmentSystem.BLL\\HospitalMangmentSystem.BLL.csproj|solutionrelative:hospitalmangmentsystem.bll\\dtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED81ED6-6E2B-43CA-8F91-45F889C638FF}|HospitalMangmentSystem.DAL\\HospitalMangmentSystem.DAL.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.dal\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED81ED6-6E2B-43CA-8F91-45F889C638FF}|HospitalMangmentSystem.DAL\\HospitalMangmentSystem.DAL.csproj|solutionrelative:hospitalmangmentsystem.dal\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED81ED6-6E2B-43CA-8F91-45F889C638FF}|HospitalMangmentSystem.DAL\\HospitalMangmentSystem.DAL.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.dal\\data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED81ED6-6E2B-43CA-8F91-45F889C638FF}|HospitalMangmentSystem.DAL\\HospitalMangmentSystem.DAL.csproj|solutionrelative:hospitalmangmentsystem.dal\\data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|d:\\visual studio\\hospitalmangmentsystem\\hospitalmangmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCFECAE-B1C7-424B-8F3B-ED726FDA6F7D}|HospitalMangmentSystem.API\\HospitalMangmentSystem.API.csproj|solutionrelative:hospitalmangmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.API\\appsettings.json",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\appsettings.json",
+              "RelativeToolTip": "HospitalMangmentSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T15:30:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:29:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorUpdateDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:28:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorReadDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:28:42.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorAddDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:27:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:26:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:24:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalMangmentSystem.API\\Program.cs",
+              "ToolTip": "D:\\visual studio\\HospitalMangmentSystem\\HospitalMangmentSystem.API\\Program.cs",
+              "RelativeToolTip": "HospitalMangmentSystem.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:16:22.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
